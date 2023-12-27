@@ -1,4 +1,4 @@
-# PDF Splitter
+# I Hate PDF
 
 Este projeto em Node.js utiliza a biblioteca `pdf-lib` para dividir arquivos PDF em páginas individuais e organizá-las em subpastas de saída. Cada subpasta corresponde a um arquivo PDF de entrada, e cada página é salva como um novo arquivo PDF com um nome único.
 
@@ -10,13 +10,13 @@ O script foi criado a fim de facilitar um serviço de certa forma manual e desne
 2. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/pdf-splitter.git
+git clone https://github.com/seu-usuario/I-Hate-PDF.git
 ```
 
 - Navegue até o diretório do projeto:
 
 ```
-cd pdf-splitter
+cd I-Hate-PDF
 ```
     
 - Instale as dependências(os pacotes):
